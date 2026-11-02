@@ -1,0 +1,11 @@
+{
+  "name":"FOCUS OS – Personal Productivity",
+  "short_name":"FOCUS OS",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#0b0e0c",
+  "theme_color":"#0b0e0c",
+  "description":"Plan your day, track routines and focus on what matters.",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
